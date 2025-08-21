@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CharanTejaK1
-- 🌱 I’m currently learning Java Script,React and Docker
+- 🌱 I’m currently working as Data Science and had experience in python , Sql and ML algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me charan131teja@gmail.com
 - 😄 Pronouns: ...
